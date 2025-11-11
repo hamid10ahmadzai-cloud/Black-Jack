@@ -1,0 +1,37 @@
+h1 {
+    color: yellow;
+    font-size: 90px;
+}
+body {
+    background-image: url("https://tse4.mm.bing.net/th/id/OIP.p_4LjKSioBsArRhAQCK4ugHaE8?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3");
+    background-size: cover;
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+#message-el {
+    font-style: italic;
+}
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+    width: 500px;
+    padding: 20px 0px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    color: green;
+}
+button:hover {
+    background-color: yellowgreen;
+    width: 550px;
+}
+#StartGame {
+    margin-bottom: 10px;
+}
