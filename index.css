@@ -3,8 +3,10 @@ h1 {
     font-size: 90px;
 }
 body {
+    height: 100%;
     background-image: url("https://tse4.mm.bing.net/th/id/OIP.p_4LjKSioBsArRhAQCK4ugHaE8?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3");
     background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
 }
 p {
